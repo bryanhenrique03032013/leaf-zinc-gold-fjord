@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "D.L.P. — Delegacia da Língua",
+      "hasCanvas": false,
+      "bodyTextLen": 678,
+      "bodyTextHash": "e17875aeef562b3c8bbe447d18db6e938e499dcfab68665bb3cb1e9a8a896b01",
+      "bodyTextPrefix": "CENA DO CRIME — ERRO GRAMATICAL D.L.P. DELEGACIA DA LÍNGUA DLP C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "D.L.P. — Delegacia da Língua",
+      "hasCanvas": false,
+      "bodyTextLen": 678,
+      "bodyTextHash": "e17875aeef562b3c8bbe447d18db6e938e499dcfab68665bb3cb1e9a8a896b01",
+      "bodyTextPrefix": "CENA DO CRIME — ERRO GRAMATICAL D.L.P. DELEGACIA DA LÍNGUA DLP C",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
